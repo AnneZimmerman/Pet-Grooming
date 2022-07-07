@@ -2,27 +2,24 @@
 Hi,
 I run a mobile pet grooming business that began in 2019. Our business has recently grown considerably as people allow us back into their homes. With this increase, we need 
 an organized method of keeping track of our customers(and their pets). We need to record the pet owner's name, adress, what kind of pet they have, the name of their pet, 
-price per grooming, and frequency of service, date we picked them up.
+price per grooming, frequency of service, and the date we picked them up.
 
 Questions:
-Q)Do you ever do a one-time grooming, or are all your customers regular?
-A)No, we currently have a full schedule with our regular customers and we encourage one-time customers to go to a pet grooming site.
+Q)What are your options for frequency of service?
+A)We only offer weekly and biweekly service.
 
 Q)Do you need to keep track of previous customers?
-A)Yes, at present, we have had no customes drop us, but if we should have a column available for when we need it.
+A)Yes, at present, we have had no customes drop us, but we should have a column available for when we need it.
 
-Q)Is there certain animals that you don't offer service for, or are you available for all pets?
+Q)Do you offer your services for all animals?
 A)No, we only offer grooming for dogs, cats, rabbits, and guinea pigs.
 
-Q)Do you need to record the breed of the animal?
-A)No, just the kind of animal.
-
 Q)Can one customer have multiple pets?
-A)yes, we would record each pet seperately, and just repeat the owner's information for each pet.
+A)Yes, we record each pet seperately, and just repeat the owner's information for each pet.
 
 Reports:
 1)We need a list of how many of each pet we currently have.
-2)we need to see how many customers have multiple pets, to know what our target audience should be for advertisement.
+2)we need to see how many customers have multiple pets.
 3)We need a list of the number of each kind of animal we have, for advertising and hiring purposes
 4)We need to know the average amount we make per animal type 
 
